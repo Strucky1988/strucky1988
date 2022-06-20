@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello coding friends, 👋
 
-<!--
-**Strucky1988/strucky1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me :
 
-Here are some ideas to get you started:
+**my name is Patrick and I come from Germany.<br/>
+I'm passionate about programming**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ❤ Languages
+
+- **HTML**
+- **CSS (Sass)**
+- **Javascript**
+- **PHP**
+- **SQL**
+
+## 👌 Links
+
+- <a href="https://codepen.io/strucky1988">Codepen **" Strucky1988 "**</a>  
+- <a href="https://www.instagram.com/struckys_webdesign/">Instagram **" struckys_webdesign "**</a>
