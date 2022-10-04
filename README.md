@@ -14,6 +14,6 @@ I'm passionate about programming**
 - **SQL**
 
 ## 👌 Links
-- <a href="https://struckys-webdevelopment.de/">www.struckys-webdevelopment.de**</a>
+- <a href="https://struckys-webdevelopment.de/">www.struckys-webdevelopment.de **" Meine Webseite "**</a>
 - <a href="https://codepen.io/strucky1988">Codepen **" Strucky1988 "**</a>  
 - <a href="https://www.instagram.com/struckys_webdesign/">Instagram **" struckys_webdesign "**</a>
